@@ -1,9 +1,0 @@
-{
-  "firebase": "rtwk",
-  "public": ".",
-  "ignore": [
-    "firebase.json",
-    "**/.*",
-    "**/node_modules/**"
-  ]
-}
