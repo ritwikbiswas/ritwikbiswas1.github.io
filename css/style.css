@@ -12,7 +12,7 @@ body {
   margin: 0;
   width: 100%;
   font: 18px "Monaco", Inconsolata, monospace;
-  background: #2962FF;
+  background: #29B6F6;
   color: #f8f8f8;
 }
 
@@ -151,4 +151,16 @@ a {
   color: #f8f8f8;
 }
 
-
+.footer{
+  background: transparent;
+  position: absolute;
+  left: 50%;
+  bottom: 10%;
+  margin-left: -300px;
+  text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.4);
+  width: 700px;
+  font: inherit;
+  border: none;
+  outline: none;
+  color: inherit;
+}
