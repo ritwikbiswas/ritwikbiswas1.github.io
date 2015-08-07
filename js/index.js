@@ -27,3 +27,4 @@ $.fn.typewriter = function() {
   return this
 };
 $(".terminal").typewriter();
+$(".title").typewriter();
